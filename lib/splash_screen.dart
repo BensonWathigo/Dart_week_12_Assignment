@@ -26,7 +26,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Center(
         child: Image.asset(
-            'Images/funny-crazy-cartoon.jpg'), // Ensure you have a logo image in assets
+            'images/funny-crazy-cartoon.jpg'), // Ensure you have a logo image in assets
       ),
     );
   }
